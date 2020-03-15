@@ -1,0 +1,61 @@
+#intro {
+   text-align: center;
+   margin-top: 50px;
+   margin-bottom: 50px;
+   padding: 30px;
+}
+
+#intro p {
+  margin-top: 20px;
+}
+
+.btn {
+  margin-top: 30px;
+}
+
+.carousel {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 70px;
+}
+
+.firstSlide {
+  background-image: url("https://cdn.univ20.com/wp-content/uploads/2016/07/eae971a4dda9bd221c0c9449feeedd33.jpg");
+  height: 400px;
+  background-size: cover;
+  background-position: middle, middle;
+}
+
+.secondSlide {
+  background-image: url("https://cdn.univ20.com/wp-content/uploads/2016/07/ac7ec79a39145c0841bcfa2bc5b7677a.jpg");
+  height: 400px;
+  background-size: cover;
+  background-position: middle, middle;
+}
+
+.thirdSlide {
+  background-image: url("https://cdn.univ20.com/wp-content/uploads/2016/07/bf2fe2ec42bdc34af4735b492478e501.jpg");
+  height: 400px;
+  background-size: cover;
+  background-position: middle, middle;
+}
+
+.toeic-content {
+  text-align: center;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.toeic-content h1 {
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+.toeicImage {
+  width: 400px;
+  margin-top: 100px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
